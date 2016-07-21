@@ -1,0 +1,8 @@
+{
+    "name" : "php-yaml-empty-array",
+    "license" : "beerware",
+    "minimum-stability" : "stable",
+    "require" : {
+        "symfony/yaml" : "*"
+    }
+}
